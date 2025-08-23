@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-7b2cbf?style=for-the-badge"></a>
   <a href="mailto:iamriyasaryam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-9d4edd?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-240046?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/iamriyasaryam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-240046?style=for-the-badge"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=iamriyasaryam&style=for-the-badge&color=10002b">
 </p>
 
@@ -33,6 +33,7 @@
 ---
 
 ### 🛠 Tech & Tools
+**Languages:** Java, Python, JavaScript, HTML, CSS 
 **Framework:** Django  
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub  
@@ -66,7 +67,7 @@
 
 ### 📫 Reach Me
 - Mail: **iamriyasaryam@gmail.com**  
-- Portfolio: **your-portfolio-link.com**  
-- LinkedIn: **linkedin.com/in/your-link**
+- Portfolio: working on deployment
+- LinkedIn: **https://www.linkedin.com/in/iamriyasaryam/**
 
 > If you like my work, consider ⭐️ starring a repo or sharing feedback. It helps a lot!
